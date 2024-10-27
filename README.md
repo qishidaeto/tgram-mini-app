@@ -1,2 +1,0 @@
-# tgram-mini-app
-description
